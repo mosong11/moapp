@@ -69,7 +69,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
              </dl>
           </div>
           <!-- 商品循环结束 -->
-        
+         gfg
           <%
                    }
               } 
